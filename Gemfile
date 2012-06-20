@@ -8,6 +8,9 @@ gem 'rails', '3.1.0'
 # deployment
 gem 'heroku'
 
+# webserver
+gem 'thin'
+
 group :production do
   gem 'pg'
 end
