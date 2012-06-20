@@ -2,6 +2,7 @@ Client v. Server Templating Shootout
 ====================================
 
 [ORIGINAL VERSION][s]
+
 [THIS VERSION][t]
 
 License / Copyright
